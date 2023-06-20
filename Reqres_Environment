@@ -1,0 +1,15 @@
+{
+	"id": "4d103965-54f1-4c1c-9c21-e4823bdada1e",
+	"name": "HW 17",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://reqres.in/api",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-05-27T16:14:47.076Z",
+	"_postman_exported_using": "Postman/10.14.6"
+}
